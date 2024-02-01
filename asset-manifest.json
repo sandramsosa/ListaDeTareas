@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ListaDeTareas/static/css/main.43ee7491.css",
+    "main.js": "/ListaDeTareas/static/js/main.55d73257.js",
+    "static/media/oltursa-logo-sin-fondo.png": "/ListaDeTareas/static/media/oltursa-logo-sin-fondo.44d372957ba9596ef7c8.png",
+    "index.html": "/ListaDeTareas/index.html",
+    "main.43ee7491.css.map": "/ListaDeTareas/static/css/main.43ee7491.css.map",
+    "main.55d73257.js.map": "/ListaDeTareas/static/js/main.55d73257.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43ee7491.css",
+    "static/js/main.55d73257.js"
+  ]
+}
